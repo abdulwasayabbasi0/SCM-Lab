@@ -1,2 +1,3 @@
 Notes for Lab 5 on Git workflow and commits
 Extra line in notes
+Another note about the commit workflow
